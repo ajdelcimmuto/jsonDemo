@@ -14,6 +14,13 @@
    },
   "tests": [
       {
+        "title":"URI VoD wo/Auto-Play",
+        "resourceProvider":"URI",
+        "uri":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "type":"VOD",
+        "autoPlay":false
+      },
+      {
         "title":"URI VoD w/DRM & DASH Thumbnails",
 	"resourceProvider":"URI",
 	"uri":"https://cfd-v4-service-stitcher-dash-use1-1.prd.pluto.tv/v2/stitch/dash/episode/62704a8e73a0a1001450f4c6/main.mpd?resumeAt=400&eventVOD=true",
