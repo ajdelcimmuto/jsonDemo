@@ -1,0 +1,29 @@
+{
+     "params":{   "drmToken":"eyJhbGciOiJIUzI1NiIsImtpZCI6ImIzYTYxNDljLTg0YjktNGIwNS1iNDc5LThlNGY2ZWIzYTEzZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhODAzNTRjZi1iYjAwLTExZWUtOGU3NC0xZTk0OTcwYzI5NTEiLCJjbGllbnRJUCI6IjEzNi40OS4xMDMuNTYiLCJjaXR5IjoiQXVzdGluIiwicG9zdGFsQ29kZSI6Ijc4NzQ3IiwiY291bnRyeSI6IlVTIiwiZG1hIjo2MzUsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozMC4xMjAwMDA4MzkyMzM0LCJkZXZpY2VMb24iOi05Ny43NSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJHb29nbGUsYW5kcm9pZCxtb2JpbGUiLCJkZXZpY2VWZXJzaW9uIjoiMTNfMzMiLCJkZXZpY2VNYWtlIjoiR29vZ2xlIiwiZGV2aWNlTW9kZWwiOiJzZGtfZ3Bob25lNjRfYXJtNjQiLCJhcHBOYW1lIjoiYW5kcm9pZG1vYmlsZSIsImFwcFZlcnNpb24iOiI1LjM4LjAtZGVidWciLCJjbGllbnRJRCI6ImZjNGQzOGNlLTUxYTYtNDljNy1iYzU1LWFkOTdhZmNhM2Y2Ml80MWI5ODkxOTMzYjI4ODU1IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQ2hpY2FnbyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkRpcmVjdG9yc0VuYWJsZWQiOnRydWUsInF1ZXJ5U3lub255bXNFbmFibGVkIjp0cnVlLCJxdWVyeVZlcnNpb24iOiJ2MSJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJmYzRkMzhjZS01MWE2LTQ5YzctYmM1NS1hZDk3YWZjYTNmNjJfNDFiOTg5MTkzM2IyODg1NSIsImZ3VmNJRDJDb3BwYSI6ImZjNGQzOGNlLTUxYTYtNDljNy1iYzU1LWFkOTdhZmNhM2Y2Ml80MWI5ODkxOTMzYjI4ODU1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmYzRkMzhjZS01MWE2LTQ5YzctYmM1NS1hZDk3YWZjYTNmNjJfNDFiOTg5MTkzM2IyODg1NSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpabU0wWkRNNFkyVXROVEZoTmkwME9XTTNMV0pqTlRVdFlXUTVOMkZtWTJFelpqWXlYelF4WWprNE9URTVNek5pTWpnNE5UVT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzA2MjE4NTk4LCJpYXQiOjE3MDYxMzIxOTgsImp0aSI6ImVhMzg5ZGJhLWIyMWUtNDJhNC04YWM0LWZjYjkwZmFmYWRkMyJ9.sJDnZBekNFtg72kEdoCZFb_UrC2CBOgnnqYWT4nxZaE",
+      "drmHost":"https://service-concierge.clusters.pluto.tv/v1/wv",
+      "drmEnvironment":"",
+      "drmEnvironmentTest":"",	   
+      "drmDevice":"",
+      "maxBitrate":"20000000",
+      "enableThumbnails":"true",
+      "fetchAdUri":"",
+      "fetchAdDelay":"3000",
+      "liveOffset":"40000",	   
+      "trackingConfig":"",
+      "deviceConfig":"https://raw.githubusercontent.com/ssenanayake/test/main/device-config.json"	   
+   },
+  "tests": [
+      {
+        "title":"URI VoD w/DRM & DASH Thumbnails",
+	"resourceProvider":"URI",
+	"uri":"https://cfd-v4-service-stitcher-dash-use1-1.prd.pluto.tv/v2/stitch/dash/episode/62704a8e73a0a1001450f4c6/main.mpd?resumeAt=400&eventVOD=true",
+	"drmType":"WIDEVINE",
+        "drmContentId":"",
+        "drmToken":"{drmToken}",
+	"type":"LIVE",
+	"drmEnvironment":"{drmEnvironment}",
+	"drmHost":"{drmHost}",
+	"drmDevice":"{drmDevice}"
+      }
+  ]
+}
